@@ -3,7 +3,6 @@
 💻 Tech enthusiast passionate about **Data Engineering, PySpark, SQL, and Cloud Technologies**.  
 🚀 I enjoy building **data pipelines, working with big data, and solving real-world data problems.**  
 
-💬 Baaki to **koi dikkat nahi**… sab ho jaayega sahi.
 ---
 
 ## 🌐 Connect With Me
@@ -41,10 +40,13 @@
 
 ---
 
-# ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+💬 Baaki to **koi dikkat nahi … sab ho jaayega sahi.
+
+--# ✍️ Random Dev Quote
+
+-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=CrypticSai-08&icon=0&color=0)
+-- ![](https://visitcount.itsvg.in/api?id=CrypticSai-08&icon=0&color=0)
