@@ -2,6 +2,7 @@
 
 💻 Tech enthusiast passionate about **Data Engineering, PySpark, SQL, and Cloud Technologies**.  
 🚀 I enjoy building **data pipelines, working with big data, and solving real-world data problems.**
+💬 Baaki to koi dikkat nahi… sab ho jaayega sahi.
 
 ---
 
@@ -37,12 +38,6 @@
 ![](https://streak-stats.demolab.com?user=CrypticSai-08&theme=dark)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticSai-08&layout=compact&theme=dark)
-
----
-
-# 📈 Contribution Graph
-
-[![Sai's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CrypticSai-08&theme=github-dark)](https://github.com/CrypticSai-08)
 
 ---
 
