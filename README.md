@@ -2,7 +2,7 @@
 
 💻 Tech enthusiast passionate about **Data Engineering, PySpark, SQL, and Cloud Technologies**.  
 🚀 I enjoy building **data pipelines, working with big data, and solving real-world data problems.**
-💬 Baaki to koi dikkat nahi… sab ho jaayega sahi.
+💬 Baaki to **koi dikkat nahi … sab ho jaayega sahi.
 
 ---
 
